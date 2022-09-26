@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641335725 source:d:\codeblocks\projects\math - ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<stack>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<vector>
+	<sstream>
+
